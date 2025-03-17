@@ -2,7 +2,8 @@ variable "splunk_hec_endpoint" {
   description = "Splunk HEC endpoint URL"
   type        = string
   # default     = "https://your-splunk-instance:8088/services/collector" # Replace
-  default     = "https://localhost:8000/services/collector" # Replace
+  # default     = https://localhost:8000/services/collector" # Replace
+  default     = https://si-i-01786687be17a40a2.prd-p-71mcu.splunkcloud.com:8088/services/collector/health"	# https://localhost:8000/services/collector" # Replace
 }
 
 variable "splunk_hec_token" {
