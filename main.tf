@@ -13,10 +13,7 @@ data "aws_caller_identity" "current" {}
 # S3 Bucket for Backup
 resource "aws_s3_bucket" "backup" {
   bucket = var.s3_backup_bucket
-<<<<<<< HEAD
-=======
   force_destroy = true
->>>>>>> f31e2494eb71056a738b34c27ee2a8c1a2f5a6a3
 }
 
 # S3 Bucket Policy (Replaces ACL)
