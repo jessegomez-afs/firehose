@@ -7,7 +7,7 @@ I transitioned to a 14-day Splunk Cloud account, but have had errors about dropp
 
 Troubleshooting.
 
-==============================================
+=====================
 UPDATE - Mon 2025-03-17 @ 16:14
 
 When I try to send data from AWS Data Firehose to Splunk Cloud, the AWS error is "Could not connect to the HEC endpoint. Make sure that the certificate and the host are valid."
