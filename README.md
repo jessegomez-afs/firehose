@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # firehose
 firehose practice
-<<<<<<< HEAD
-=======
-=======
 
 3.17.2025
 
@@ -31,7 +27,3 @@ According to this article https://docs.splunk.com/Documentation/SplunkCloud/9.3.
 
 I've sent an email to splunk support requesting that feature.
 
-
->>>>>>> f31e2494eb71056a738b34c27ee2a8c1a2f5a6a3
-=======
->>>>>>> b0e56c857df5c2cdbe89ddae7fb48f8bc3f2ce77

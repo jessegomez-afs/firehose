@@ -253,3 +253,5 @@ resource "aws_cloudwatch_log_subscription_filter" "firehose_subscription" {
   role_arn        = aws_iam_role.cw_logs_role.arn
   depends_on      = [aws_cloudwatch_log_group.firehose_log_group]
 }
+
+

@@ -5,3 +5,5 @@ output "firehose_stream_arn" {
 output "s3_backup_bucket" {
   value = aws_s3_bucket.backup.bucket
 }
+
+

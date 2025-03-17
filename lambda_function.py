@@ -18,3 +18,5 @@ def lambda_handler(event, context):
             'data': base64.b64encode(json.dumps(log_event).encode('utf-8')).decode('utf-8')
         })
     return {'records': output}
+
+
