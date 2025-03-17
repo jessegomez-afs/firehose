@@ -1,7 +1,13 @@
 <<<<<<< HEAD
 # firehose
 firehose practice
+<<<<<<< HEAD
 =======
+=======
+
+3.17.2025
+
+>>>>>>> b0e56c857df5c2cdbe89ddae7fb48f8bc3f2ce77
 My exercise to implement a basice AWS Data FireHose and Splunk Cloud.
 
 Lastk week, I mistakenly installed Splunk Enterprise to my local laptop then realized there was now way AWS Firehose was going to connect to my laptop.
@@ -10,6 +16,7 @@ Also, the splunk enterprise quickly made me run out of disk space.
 I transitioned to a 14-day Splunk Cloud account, but have had errors about dropped or failed connections.
 
 Troubleshooting.
+<<<<<<< HEAD
 
 =====================
 UPDATE - Mon 2025-03-17 @ 16:14
@@ -26,3 +33,5 @@ I've sent an email to splunk support requesting that feature.
 
 
 >>>>>>> f31e2494eb71056a738b34c27ee2a8c1a2f5a6a3
+=======
+>>>>>>> b0e56c857df5c2cdbe89ddae7fb48f8bc3f2ce77
